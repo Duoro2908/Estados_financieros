@@ -1,0 +1,24 @@
+# Archivos temporales de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+debug/
+release/
+
+# Archivos de configuración local
+.vs/
+*.csproj.user
+*.sqlite-journal
+*.mdf
+*.ldf
+
+# Archivos generados por el sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
